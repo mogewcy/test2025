@@ -4,6 +4,10 @@
 
 MCP (Mission Control Protocol) 是一个强大的工具，它可以让你在 Cursor 编辑器中直接与 GitHub 进行交互，实现代码管理和版本控制的自动化。
 
+要深入了解 MCP 的工作原理，请查看我们的[核心原理详解文档](docs/mcp-core-principles.md)。
+
+想要开发自己的 MCP Server？请查看我们的[服务器开发教程](docs/mcp-server-development-guide.md)。
+
 ## 主要功能
 
 ### 1. GitHub 仓库管理
@@ -82,6 +86,8 @@ MCP (Mission Control Protocol) 是一个强大的工具，它可以让你在 Cur
 
 ## 更多资源
 
+- [MCP 核心原理详解](docs/mcp-core-principles.md)
+- [MCP Server 开发教程](docs/mcp-server-development-guide.md)
 - [Cursor 官方文档](https://cursor.sh/)
 - [GitHub API 文档](https://docs.github.com/en/rest)
 - [MCP 项目主页](https://github.com/mogewcy/test2025)
