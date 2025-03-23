@@ -8,6 +8,8 @@ MCP (Mission Control Protocol) 是一个强大的工具，它可以让你在 Cur
 
 想要开发自己的 MCP Server？请查看我们的[服务器开发教程](docs/mcp-server-development-guide.md)。
 
+对 AI IDE 感兴趣？请查看我们的 [AI IDE 介绍文档](docs/ai-ide-introduction.md)。
+
 ## 主要功能
 
 ### 1. GitHub 仓库管理
@@ -88,6 +90,7 @@ MCP (Mission Control Protocol) 是一个强大的工具，它可以让你在 Cur
 
 - [MCP 核心原理详解](docs/mcp-core-principles.md)
 - [MCP Server 开发教程](docs/mcp-server-development-guide.md)
+- [AI IDE 介绍](docs/ai-ide-introduction.md)
 - [Cursor 官方文档](https://cursor.sh/)
 - [GitHub API 文档](https://docs.github.com/en/rest)
 - [MCP 项目主页](https://github.com/mogewcy/test2025)
